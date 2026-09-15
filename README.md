@@ -116,17 +116,6 @@ See full details in [`backend/tests/manual_test_plan.md`](file:///c:/Users/KOUSH
 
 ---
 
-## 🎬 Demo Video Outline & Script (2-3 Minutes)
-
-When recording your video for submission:
-1. **0:00 - 0:30 (Problem & Brief)**: Introduce yourself, explain the prompt (turning Lenny's transcripts into a grounded internal growth assistant with artifacts and skills).
-2. **0:30 - 1:15 (Grounded Chat & Citations)**: Ask "Explain Brian Chesky's Founder Mode vs Manager Mode". Highlight footnote citations, guest names, timestamps, and direct transcript links.
-3. **1:15 - 1:55 (Ship 30 for 30 Skill & Local Ollama)**: Toggle model to Ollama local LLM. Select "Ship 30 for 30 Skill" and ask for an essay on LNO task prioritization. Point out the ~1,250-word structure, hook, bold emphasis, and takeaways.
-4. **1:55 - 2:30 (Artifact Viewer & Security)**: Ask to generate an interactive HTML growth framework dashboard. Demonstrate the side-by-side split screen, Code vs. Preview tabs, and explain the `iframe` sandbox and DOMPurify security isolation strategy.
-5. **2:30 - 3:00 (Architecture & Handoff)**: Highlight `docker-compose.yml`, zero-dependency mock fallback, FastAPI architecture, and test suite.
-
----
-
 ## 📁 Repository Structure
 
 ```
