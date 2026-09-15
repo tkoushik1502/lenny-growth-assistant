@@ -1,0 +1,136 @@
+[
+  {
+    "id": "ep-101-brian-chesky",
+    "title": "Brian Chesky on Founder Mode, Design-Led Culture, and Unconventional Growth",
+    "guest": "Brian Chesky",
+    "role": "Co-founder & CEO, Airbnb",
+    "url": "https://www.lennyspodcast.com/brian-chesky-airbnb",
+    "ep_number": 101,
+    "sections": [
+      {
+        "section_id": "ep-101-s1",
+        "timestamp": "04:15",
+        "topic": "Founder Mode vs Manager Mode",
+        "content": "When companies scale, conventional wisdom tells founders to hire professional managers and delegate everything ('Manager Mode'). But standard management advice breaks product-led companies because middle management layers disconnect the founder from the details. 'Founder Mode' isn't micromanagement; it's being detail-obsessed, running cross-functional product reviews, and maintaining a singular narrative across product, marketing, and design. You must participate in the work, not just evaluate status reports.",
+        "key_quotes": ["Hire great people, but never delegate the core soul and product reviews of your company."]
+      },
+      {
+        "section_id": "ep-101-s2",
+        "timestamp": "18:40",
+        "topic": "Eliminating Traditional Product Management at Airbnb",
+        "content": "At Airbnb, we combined product management with product marketing. A traditional PM writes specs and hands them off. In our integrated model, the product manager is responsible for defining the product AND telling its story to the market. If you can't articulate why a feature matters to a user in a launch video or press release, the feature shouldn't exist.",
+        "key_quotes": ["We merged Product Management with Product Marketing. The product is the story."]
+      },
+      {
+        "section_id": "ep-101-s3",
+        "timestamp": "32:10",
+        "topic": "Designing 11-Star Experiences",
+        "content": "To build something people truly love, do an exercise: imagine a 5-star experience (it's what you expect). Now imagine a 6-star experience (a gift on arrival). A 7-star experience (a personal tour guide). Keep scaling to an 11-star experience (Elon Musk greets you at the airport and takes you to space). Somewhere between 7 and 11 stars is an achievable experience that creates passionate word-of-mouth growth.",
+        "key_quotes": ["Find your 11-star experience, then work backward to what is achievable at scale."]
+      }
+    ]
+  },
+  {
+    "id": "ep-102-shreyas-doshi",
+    "title": "Shreyas Doshi on High-Agency Product Management, LNO Framework, and Pre-Mortems",
+    "guest": "Shreyas Doshi",
+    "role": "Former Product Leader at Stripe, Twitter, Yahoo, Google",
+    "url": "https://www.lennyspodcast.com/shreyas-doshi-product-leadership",
+    "ep_number": 102,
+    "sections": [
+      {
+        "section_id": "ep-102-s1",
+        "timestamp": "08:12",
+        "topic": "The LNO Framework for Task Prioritization",
+        "content": "Product Managers fail when they treat every task with equal perfectionism. Categorize your tasks into Leverage (L), Neutral (N), and Overhead (O). L-tasks (10x leverage, like strategy & core architecture) require 100% effort and excellence. N-tasks (1x leverage, like standard docs) require good-enough effort. O-tasks (overhead, like admin & routine status updates) should be done fast, imperfectly, or delegated. Doing O-tasks perfectly destroys high-leverage execution.",
+        "key_quotes": ["Treat L-tasks with passion, N-tasks with efficiency, and O-tasks with ruthless speed."]
+      },
+      {
+        "section_id": "ep-102-s2",
+        "timestamp": "25:30",
+        "topic": "Conducting Effective Pre-Mortems",
+        "content": "Before launching a major initiative, gather the team and say: 'Imagine it is one year from today, and this product launch has been a catastrophic failure. Take 10 minutes and write down every reason why it failed.' Pre-mortems break confirmation bias and allow team members to voice risks without feeling unsupportive.",
+        "key_quotes": ["A pre-mortem converts prospective hindsight into active risk mitigation."]
+      },
+      {
+        "section_id": "ep-102-s3",
+        "timestamp": "41:15",
+        "topic": "High Agency and Problem Selection",
+        "content": "High agency is the ability to bend reality to your will when confronted with obstacles. Low-agency people focus on why something cannot be done due to organizational constraints. High-agency product leaders find unconventional paths, build informal coalitions, and prioritize the highest impact problem over corporate alignment.",
+        "key_quotes": ["High agency means finding a way when there is no obvious way."]
+      }
+    ]
+  },
+  {
+    "id": "ep-103-elena-verna",
+    "title": "Elena Verna on PLG vs Sales-Led Growth, B2B Growth Engines, and Monetization",
+    "guest": "Elena Verna",
+    "role": "Head of Growth at Dropbox, SurveyMonkey, Miro, Netlify",
+    "url": "https://www.lennyspodcast.com/elena-verna-b2b-growth",
+    "ep_number": 103,
+    "sections": [
+      {
+        "section_id": "ep-103-s1",
+        "timestamp": "06:50",
+        "topic": "Product-Led Growth (PLG) as a Distribution Strategy",
+        "content": "PLG is not a product feature; it is an end-to-end go-to-market model where the product itself drives acquisition, activation, retention, and monetization. Free tier/freemium lowers friction so end-users adopt the product before enterprise procurement gets involved. If your product requires a 30-minute demo to understand, PLG will fail.",
+        "key_quotes": ["PLG relies on end-user value before enterprise monetization."]
+      },
+      {
+        "section_id": "ep-103-s2",
+        "timestamp": "22:15",
+        "topic": "Product-Led Sales (PLS) Hybrid Model",
+        "content": "The best B2B growth engines layer Product-Led Sales on top of PLG. PLG captures the bottom-up usage volume, creating Product Qualified Leads (PQLs). Sales representatives then step in to expand accounts into enterprise site-wide contracts. Don't send sales calls to cold signups; target active power users inside organizations.",
+        "key_quotes": ["PLG builds the user base; Product-Led Sales monetizes account expansion."]
+      },
+      {
+        "section_id": "ep-103-s3",
+        "timestamp": "38:00",
+        "topic": "Growth Loops over Funnels",
+        "content": "Funnels are linear and leaky. Growth loops create sustainable flywheels where the output of one user action generates the input for new user acquisition. Examples include viral loops (inviting teammates to collaborate), content loops (user-generated templates), and paid reinvestment loops.",
+        "key_quotes": ["Funnels drain resources; growth loops compound user acquisition."]
+      }
+    ]
+  },
+  {
+    "id": "ep-104-marty-cagan",
+    "title": "Marty Cagan on Product vs Feature Factories, Product Discovery, and Empowered Teams",
+    "guest": "Marty Cagan",
+    "role": "Founder, Silicon Valley Product Group (SVPG)",
+    "url": "https://www.lennyspodcast.com/marty-cagan-svpg",
+    "ep_number": 104,
+    "sections": [
+      {
+        "section_id": "ep-104-s1",
+        "timestamp": "05:10",
+        "topic": "Empowered Product Teams vs Feature Factories",
+        "content": "In a feature factory, executives hand down roadmap features and engineering is treated as an order taker. In an empowered product team, leaders assign business outcomes/problems to solve (e.g., 'reduce churn by 15%'), and the cross-functional team (PM, designer, tech lead) is empowered to discover the best solution.",
+        "key_quotes": ["Empowered teams are given problems to solve, not feature roadmaps to build."]
+      },
+      {
+        "section_id": "ep-104-s2",
+        "timestamp": "21:40",
+        "topic": "The Four Core Product Risks",
+        "content": "Product discovery must de-risk four key areas BEFORE writing production code: 1. Value Risk (Will users buy/use it?), 2. Usability Risk (Can users figure out how to use it?), 3. Feasibility Risk (Can engineers build it within constraints?), 4. Business Viability Risk (Does this solution work for sales, legal, compliance, and finance?).",
+        "key_quotes": ["De-risk Value, Usability, Feasibility, and Viability during discovery, not after launch."]
+      }
+    ]
+  },
+  {
+    "id": "ep-105-gokul-rajaram",
+    "title": "Gokul Rajaram on Decision Making (SPADE), PM Hiring, and Strategy",
+    "guest": "Gokul Rajaram",
+    "role": "Board Member & Product Leader at DoorDash, Square, Google",
+    "url": "https://www.lennyspodcast.com/gokul-rajaram",
+    "ep_number": 105,
+    "sections": [
+      {
+        "section_id": "ep-105-s1",
+        "timestamp": "09:30",
+        "topic": "The SPADE Decision Framework",
+        "content": "Consensus decision-making leads to slow, compromised products. The SPADE framework structures hard decisions: Setting (what & why), People (Responsible, Approver, Consulted, Informed), Alternatives (at least 3 realistic choices with pros/cons), Decision (the chosen alternative with clear rationale), and Execution (plan & communication). The Approver is a single person accountable for the decision.",
+        "key_quotes": ["SPADE replaces consensus paralysis with clear single-person accountability."]
+      }
+    ]
+  }
+]
